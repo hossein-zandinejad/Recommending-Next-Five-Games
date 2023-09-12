@@ -9,8 +9,8 @@ CafeBazaar Summer School 2021 Project
   - [I. Random Forest](#i-random-forest)
   - [II. Logistic Regression](#ii-logistic-regression)
   - [III. SVM](#iii-svm)
-- [Installation](#installation)
 - [Future Works](#future-works)
+- [Installation](#installation)
 - [Conclusion](#conclusion)
 - [References](#references)
 
@@ -42,7 +42,7 @@ Support Vector Machine (SVM) is another model used in this project, which minimi
 ## Future Works
 Given more time, several potential improvements and explorations can be considered. These include experimenting with XGBoost models, fine-tuning Random Forest models with different parameters, and exploring ensemble methods to combine classifiers. Additionally, Bayesian Model Averaging (BMA) could be investigated as a potential ensemble method.
 
-## Installation <!-- Added this section -->
+## Installation
 To run this project, you need to install the following libraries and dependencies:
 
 ```bash
