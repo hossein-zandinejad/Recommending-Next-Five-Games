@@ -1,4 +1,4 @@
-# Recommending-Next-Five-Games
+# Recommending Next Five Games
 CafeBazaar Summer School 2021 Project
 
 ## Table of Contents
