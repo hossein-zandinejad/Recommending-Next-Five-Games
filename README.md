@@ -9,6 +9,7 @@ CafeBazaar Summer School 2021 Project
   - [I. Random Forest](#i-random-forest)
   - [II. Logistic Regression](#ii-logistic-regression)
   - [III. SVM](#iii-svm)
+- [Installation](#installation)
 - [Future Works](#future-works)
 - [Conclusion](#conclusion)
 - [References](#references)
@@ -41,6 +42,12 @@ Support Vector Machine (SVM) is another model used in this project, which minimi
 ## Future Works
 Given more time, several potential improvements and explorations can be considered. These include experimenting with XGBoost models, fine-tuning Random Forest models with different parameters, and exploring ensemble methods to combine classifiers. Additionally, Bayesian Model Averaging (BMA) could be investigated as a potential ensemble method.
 
+## Installation <!-- Added this section -->
+To run this project, you need to install the following libraries and dependencies:
+
+```bash
+pip install numpy pandas scikit-learn scipy
+```
 ## Conclusion
 This project embarked on the development of a recommender system for predicting a user's next five game choices. Exploratory Data Analysis (EDA), feature engineering using a sparse matrix, and the application of various machine learning models were undertaken. Among these models, Logistic Regression demonstrated the best performance in predicting the next five games.
 
