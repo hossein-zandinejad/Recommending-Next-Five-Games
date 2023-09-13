@@ -1,6 +1,8 @@
 # Recommending Next Five Games
 CafeBazaar Summer School 2021 Project
 
+![CafeBazaar Logo](cafebazaarlogo_1.png)
+
 ## Table of Contents
 - [Abstract](#abstract)
 - [Introduction](#introduction)
